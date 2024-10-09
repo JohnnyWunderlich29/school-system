@@ -1,0 +1,15 @@
+table#sumir-botao-tabela tr td button { 
+    visibility: hidden;
+}
+
+table#sumir-botao-tabela tr:hover td button{ 
+    visibility: visible;
+}
+
+tbody tr td button{
+    visibility: hidden;
+}
+
+tbody tr:hover td button{
+    visibility: visible;
+}
